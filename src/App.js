@@ -4,6 +4,7 @@ import HomePage from "./components/HomePage";
 import Header from "./components/Header";
 import Com from "./layout/Com";
 import P404Page from "./components/404Page";
+import "bootstrap/dist/js/bootstrap.bundle.min";
 
 const App = () => {
   return (
